@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/568fd9d8de5d33bce5cf3d63fcc9f48c88ec2b9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_ab95457bad6774e0ff578e4ecc3980b70f5fcdd3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/82614fd46fabf45108724f5753de5252e9f3d6c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51de7c690f7bea76c6d42a7692f28a6fabba9738/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b56e2efb302093549424371a0b37872a448d9775/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_1e72a830ee993b198215976f925954702022da3a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/99c454d67f8d302e8b3660ee9bb1c60f6a715647/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6c2a7c9f30cbbafa99a687f6f1119b862cf8b85/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ec3d5baf05c55c7abdd27cb2ae1006e620ce2e6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_4f50a281defcb719cfc794624044bb3be99a676a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/df5d89c9896cdb68db93f1a236e85154f7c0e26f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f63831a19a9b148a448f81e6790f5e0ecf9db102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2a493611bac5a958f859615b6cf426af5d3e21e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_227ab5f09a4cff956aef9173a2786fe78aa9aa8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/21af71fb3cb71d2b2d378bb781ee612c679dadfc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_499f89346a55fe6f4c4a625c078d196731da01a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3d0933d72b06e13db9e1b7945b1ba705036165c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3d407eed18643f7b945c0072e021834dc1b07d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/82408e623601af30ebbf51cd36e15e591cb8e274/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_1b87749ebacbf5be1c85427ac658fc4a5e3a586d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/42f07c616e11169bf29d74a2800d10879cf817ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41c6439a084161e76e9a824c75c1c0ba71c440ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7fc32d73b3124ea18ba0753cf48a08b98db4da2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5baff863a862567c95be5db2116013bb8f8c0cc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/162dfcd65bc6d1b77cbc02380bac5c92d2122509/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_001ae57cfa7ba4376ef119d1cc78461cc2ad558f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8b6739ad9a2294992180fae8edddcddd549ca451/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a962dd665134a6c30aba4f9c610b04dc36e0f611/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/16ff2819b5b276e40e8499c97b4a4f24c99c0072/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_1ab6e8dc8223cb387426facc0c1a84c777dd8892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ea9c0cb109eddce954a7fb3101f44878badc2cca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_832a78ba1204760a31c126e68dc1bfbe57a190d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/14c390e21f93a35b98dc931cc2e7d999676c13d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02bdb389bbb23cc7a038d6840d6b3cad9016530a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d83d2502e667c05b26ba19ca2fdf1a4b7b4764e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf2e41961aa31ef2c1325ac7b9893f7099b493d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/462b1c94f2832d405147f9f558c80b9027e53133/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8c7462d879492a6efd0125896d9ed84ee0ab329/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ffefe21d9c19b2eb9af317f47e14f1a5c97aed18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f7d04990b26af8b1bb1e3c6026011cf26e3eae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/78cf5245b895f7dc48141a714ce3fe0e96882767/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84e4a371caed5ab1a84417b397c05b2b44f224a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/61b58baf7ccc781f5c6026660e9676d80bf498a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0aa6c198b4df0555e6ccce1a4911a119d4702d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/bd9770d1de5a00ac858a149d49e91120fd7665d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_ef42811840a97f6a96f339ce6297c8004b9122c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/709cd7c18cadd4437c126bdf964fcb12be5012d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee831e00424c823916cd7e6fb715e1f8d3e4bf66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ab38e424a8daef9c2bec3c05618469480334ba54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb3189197b9d4d1c4e6276dfaa4827645d77daea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a42d240697afe8ab7fcb0970a62fc6aecfcebf6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4118e964292c3f0197056aa8c8a7069746f218d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c43e4f228b4221f0de3090638d0c87d507832f5c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1efa5b004174a4ffec0e86be38addb1d53538d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f2ea239aee02df4bfbdd52447c0c348fb302054d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_5f2c98b88e3d1f1dc1f204a5d1fecee0c5574537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8d587e5c8acbe951a28a6c37daa4bcdd27fd586e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_9f67a4e8bcfdbc9590ee563eafed77cafe922d3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2279cd4588d360ffc385350db0a56860ab46290a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_8f1cd0edf573adfed65e7ddbf8f15ad01c2c9408.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b56e2efb302093549424371a0b37872a448d9775/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01a590e11a94cb7f5c8b1243d4a2783eab4d0a34">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e72a830ee993b198215976f925954702022da3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8598b79d25e6613ea2da68ac3d558f51acd45a58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a178baf59fa571bf84aa64f586e1e4b318c10d62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a5fa6a390c0733158e2ebb7e45c79c8b03ca7b3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7834a26eb567878710c55a19e9fa8bd5e5c0c280/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/21af71fb3cb71d2b2d378bb781ee612c679dadfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_499f89346a55fe6f4c4a625c078d196731da01a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/568fd9d8de5d33bce5cf3d63fcc9f48c88ec2b9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="171b54791d6ecec42ffc943bf9ea1a363ff6ab4f">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab95457bad6774e0ff578e4ecc3980b70f5fcdd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bd9770d1de5a00ac858a149d49e91120fd7665d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef42811840a97f6a96f339ce6297c8004b9122c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2a493611bac5a958f859615b6cf426af5d3e21e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_227ab5f09a4cff956aef9173a2786fe78aa9aa8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/6bf4d65e669919dfec7bc674e29f4374db319563/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_8e5e1bf4ccbbd90c9876b306c70920aa53c392cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/3d0933d72b06e13db9e1b7945b1ba705036165c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="103378d4e51581df4783e9e4a59a1775fe4f4104">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_b3d407eed18643f7b945c0072e021834dc1b07d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/82408e623601af30ebbf51cd36e15e591cb8e274/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="694e2bf7a21fa46310a4a0309b9943060d573abe">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b87749ebacbf5be1c85427ac658fc4a5e3a586d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d965040235cf9e18d92a0639a29440ba51f80214/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_980defb9a9ebb7ba1606142ec48c5fbf7b6ad1a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ea9c0cb109eddce954a7fb3101f44878badc2cca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1a80b23cc4097106a3f4914928e700ac3c5b2ed">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_832a78ba1204760a31c126e68dc1bfbe57a190d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/dbd80e6a090a065c06acffea88fe619b8f4471a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_bd3385604359d9773359744720d16436fa474d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/255816080df7219ad4af0973222cca5557eef652/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_76367ce96bbae311a9c5fa0993f807fee1a160fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/462b1c94f2832d405147f9f558c80b9027e53133/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a8ae88a3addcb045172d340c4d1e977cbd50c39">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_c8c7462d879492a6efd0125896d9ed84ee0ab329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/78cf5245b895f7dc48141a714ce3fe0e96882767/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_84e4a371caed5ab1a84417b397c05b2b44f224a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_7a6134ddc9b109d53e5eb36c6a01475764deb5c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c205e5c5b6ab539789018f2d939f5e5d5ffa789c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbdd89e2de4ea28497ecf6bedd495f8f550d24e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e688deacb1af213a551c1274628ff11eafd4e2b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_0a8984d3b71f3adacbeceeab096d25b0ef681753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2052dc8881b7958f70d68efde63fc8cb91c37c59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_fd70f0936e61b1468475a230204cd86007dc3185.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7b0153b9100a00abdbe5b2e90f360592ad1b1876/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b75eab5a583d91f3e9a647189cb0441ea6ccca7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9516fe884e001520fa004b23292811cf53e51f1e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1045aa676956d46587697504138edc7990b70b0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6f83635cfb3fb408d6b36e6a6a7ab5b031d67358/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08777d7527166d6db3cf0b3392eb231561f252ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/465f7e1df4e11eb5746a5b263b1523885a4670a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dec28e723f48d7ec184f53a92ad746e2c99e228a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f2ea239aee02df4bfbdd52447c0c348fb302054d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="539c74d461960397d4c3f72623c72eb766569075">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f2c98b88e3d1f1dc1f204a5d1fecee0c5574537/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ffefe21d9c19b2eb9af317f47e14f1a5c97aed18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_3f7d04990b26af8b1bb1e3c6026011cf26e3eae5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/96066a3edd5d9921a20bf04b1df34f1ed9d0520f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b6a0cd8d589b49bf550031f52712d73520d1eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2279cd4588d360ffc385350db0a56860ab46290a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f1cd0edf573adfed65e7ddbf8f15ad01c2c9408/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8598b79d25e6613ea2da68ac3d558f51acd45a58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="816a71eb5b0340d26db3056aa33f58dad108315b">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_a178baf59fa571bf84aa64f586e1e4b318c10d62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5e1ded291828d6ec2da415e6b8265bd561ff10a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aba49801db3c73974135d682ff83f5accd7f9ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/ab38e424a8daef9c2bec3c05618469480334ba54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6a5692945e9d4bc34baddb4f7cb79070038f739">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_bb3189197b9d4d1c4e6276dfaa4827645d77daea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0f00412fcb90a27ff04e92f5cbf85ce49241ed4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_3e204890b98e7dd4e2a00eca0d25dab66f3f3b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a42d240697afe8ab7fcb0970a62fc6aecfcebf6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_e4118e964292c3f0197056aa8c8a7069746f218d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7c3b02edc016a1dc811ffecf26d48c997ba44d03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11534a2c550a7dffa213bc467aaab0ed54b4450b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8df1c6720301d5d845d7b782fee36c000d0d47ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_b31bfd9e13e0dc8dfc8d252a2c4bc015e343b887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/372849a9ac37e9fb8856614f9683b6615d3109d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_3b7d8a826860cc13e741f87178addce551afb45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/82d8d13837a9396b0d9bc0479137698320c196df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_810746a9e75fa7e4b207eae23d857840c94992fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a5fa6a390c0733158e2ebb7e45c79c8b03ca7b3b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_7834a26eb567878710c55a19e9fa8bd5e5c0c280.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9f34430df37ea08733409357b374caab4ac21d88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0619b8242b13e6913628e84f76f41701b82aad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6bf4d65e669919dfec7bc674e29f4374db319563/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2df69841cd9793d6bfa2f78b7b7f4ea06d2296a7">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e5e1bf4ccbbd90c9876b306c70920aa53c392cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/465f7e1df4e11eb5746a5b263b1523885a4670a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d151a92bb0af74ea6368e57ddf0e03c609155b4">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_dec28e723f48d7ec184f53a92ad746e2c99e228a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7b0153b9100a00abdbe5b2e90f360592ad1b1876/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03589bac12234193d4a7a9b106a6db1b367afe99">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_8b75eab5a583d91f3e9a647189cb0441ea6ccca7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/80ab1836357b3c6a50c3839d2e0f9d0552ec0331/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d4bd531fccc67a9336160f7175b19233aeaea4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8c248cf0860921c7c0f1c0b6af1abbba8a00392d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c74a35b3ae68c236246fafdea4104358e8105bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/dbd80e6a090a065c06acffea88fe619b8f4471a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c80e982366ff105ce567a3e536cb77ae4981ade">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd3385604359d9773359744720d16436fa474d0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/261fbe3a5156a5180da0ed9dcd52aa59f8e16b2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c6e5360b8b44768aede7a722973c2a4875bfa77/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b9208aab9a2177636d72b63d93af3882ae64db52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_baf0b830796a5ec3c76e6eebcec4615321afbaa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d965040235cf9e18d92a0639a29440ba51f80214/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="767b85989de73cb665e14510ff2657ef979241f9">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_980defb9a9ebb7ba1606142ec48c5fbf7b6ad1a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a8c33783bff738ccbf46988e95be7186ce9e8259/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_c59fdd67a8724655a7c49b47c17f473d20604aea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_7a6134ddc9b109d53e5eb36c6a01475764deb5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c205e5c5b6ab539789018f2d939f5e5d5ffa789c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6987a74958e42b559fd0eacef972173f59ba93bb">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_fbdd89e2de4ea28497ecf6bedd495f8f550d24e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e688deacb1af213a551c1274628ff11eafd4e2b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a8984d3b71f3adacbeceeab096d25b0ef681753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/255816080df7219ad4af0973222cca5557eef652/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76367ce96bbae311a9c5fa0993f807fee1a160fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e65778c77725ec1f9867c12aa3a0e3ce0b4facb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_677071f229f0d9640ed8abadd8a3a9198ea78fc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/512a7c6e333953fc70744431eabdd7500ca82747/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_189b1ae2ff8ce6ad231a2cb66e16310e0ca9ef98/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/9516fe884e001520fa004b23292811cf53e51f1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41872d809cff2114169756aad6dcd593be2ecb59">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_1045aa676956d46587697504138edc7990b70b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e3a0b7b1d0451ddffb4316dc0ac9943faadf2a5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_d7db4434a87a2124b136d06eb8f883e9be05acc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c09ed004bf18d6638ca8a489e57454b9a4f75114/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b77aa38f390b51995a7e403bac30f3cf9484b316/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/96066a3edd5d9921a20bf04b1df34f1ed9d0520f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_2b6a0cd8d589b49bf550031f52712d73520d1eec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/6f83635cfb3fb408d6b36e6a6a7ab5b031d67358/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff3baea295d5079a6b54538c8eab744ea72b4cc">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_08777d7527166d6db3cf0b3392eb231561f252ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/a38bbcb404313d085c3dcda38685632a9cb3a52a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_68f45cffffc20eeedb3d68c94c25f40666004360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7c3b02edc016a1dc811ffecf26d48c997ba44d03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_11534a2c550a7dffa213bc467aaab0ed54b4450b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5e1ded291828d6ec2da415e6b8265bd561ff10a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e82b33733f801187c5b502d56fe1e3014de84b71">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_aba49801db3c73974135d682ff83f5accd7f9ef9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2052dc8881b7958f70d68efde63fc8cb91c37c59/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2a935bcf7d7c529f04dc89905d1ddf678d5e692">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd70f0936e61b1468475a230204cd86007dc3185/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8df1c6720301d5d845d7b782fee36c000d0d47ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df812c448ef60fa0032ced451751ff98392b70a1">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b31bfd9e13e0dc8dfc8d252a2c4bc015e343b887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/61fbc701d556eccaa6a6888f5289b749eec58856/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65c4bc1f1aaff81d2421bff25a140ec6648d7c84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/0f00412fcb90a27ff04e92f5cbf85ce49241ed4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83f83593e58b678e8e6b8db6cf1fd8fe0e22dfe1">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e204890b98e7dd4e2a00eca0d25dab66f3f3b8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/df5d89c9896cdb68db93f1a236e85154f7c0e26f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f779085940b4f3c80ea711dc24a36649f16f4cd5">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_f63831a19a9b148a448f81e6790f5e0ecf9db102.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/372849a9ac37e9fb8856614f9683b6615d3109d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b7d8a826860cc13e741f87178addce551afb45e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ec3d5baf05c55c7abdd27cb2ae1006e620ce2e6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f50a281defcb719cfc794624044bb3be99a676a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/99c454d67f8d302e8b3660ee9bb1c60f6a715647/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_c6c2a7c9f30cbbafa99a687f6f1119b862cf8b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/82614fd46fabf45108724f5753de5252e9f3d6c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a3ae2ca8e64cdda4ae59aef07e33226cb950f5c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_51de7c690f7bea76c6d42a7692f28a6fabba9738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/261fbe3a5156a5180da0ed9dcd52aa59f8e16b2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="010af21d7b95f7c975dd3d2fb2aa936a241b385b">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_0c6e5360b8b44768aede7a722973c2a4875bfa77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/82d8d13837a9396b0d9bc0479137698320c196df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_810746a9e75fa7e4b207eae23d857840c94992fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/9f34430df37ea08733409357b374caab4ac21d88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_e0619b8242b13e6913628e84f76f41701b82aad4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbf92750a069e7a73c5b8562ff91345761ae645f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/7fc32d73b3124ea18ba0753cf48a08b98db4da2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00e57da8e7efba5e0aead2d3c76201d86918a0d1">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_5baff863a862567c95be5db2116013bb8f8c0cc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/42f07c616e11169bf29d74a2800d10879cf817ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc10e35f477578b1766c883d4a8561c207684531">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_41c6439a084161e76e9a824c75c1c0ba71c440ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5f98b34e804f77e46105898f5ac94d266823c72">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_45ba9bd21662a94bfbea4199c767115d4b7dc82b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8c248cf0860921c7c0f1c0b6af1abbba8a00392d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07b52724ade6a26fecb53090da1574913fc78639">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_c74a35b3ae68c236246fafdea4104358e8105bcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/162dfcd65bc6d1b77cbc02380bac5c92d2122509/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd362e8a7451fb70f9d28498949c1be35e5a2e6e">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_001ae57cfa7ba4376ef119d1cc78461cc2ad558f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a8c33783bff738ccbf46988e95be7186ce9e8259/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3227957f15e5f672f35758c028cf3b94fb39b56d">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c59fdd67a8724655a7c49b47c17f473d20604aea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b9208aab9a2177636d72b63d93af3882ae64db52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_baf0b830796a5ec3c76e6eebcec4615321afbaa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8b6739ad9a2294992180fae8edddcddd549ca451/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_a962dd665134a6c30aba4f9c610b04dc36e0f611.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/16ff2819b5b276e40e8499c97b4a4f24c99c0072/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="814b7c015442bfbedc29035e7afdfe383d893a03">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ab6e8dc8223cb387426facc0c1a84c777dd8892/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e65778c77725ec1f9867c12aa3a0e3ce0b4facb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a93a72fe5e0ac12f4a8ff35c5a6ed651e142d10a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_677071f229f0d9640ed8abadd8a3a9198ea78fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/80ab1836357b3c6a50c3839d2e0f9d0552ec0331/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76a7a625df0e9027b53dbed6e9ba9a6031a42e39">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_8d4bd531fccc67a9336160f7175b19233aeaea4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c09ed004bf18d6638ca8a489e57454b9a4f75114/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31aafe75ac42184d700ec3f862bf735c33ba201a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_b77aa38f390b51995a7e403bac30f3cf9484b316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/14c390e21f93a35b98dc931cc2e7d999676c13d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_02bdb389bbb23cc7a038d6840d6b3cad9016530a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/512a7c6e333953fc70744431eabdd7500ca82747/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a51ae54d61ca318e61c73cdd9b27ec56af03bc">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_189b1ae2ff8ce6ad231a2cb66e16310e0ca9ef98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a38bbcb404313d085c3dcda38685632a9cb3a52a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68f45cffffc20eeedb3d68c94c25f40666004360/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c43e4f228b4221f0de3090638d0c87d507832f5c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c839ceb2113b00249e896c1c02ae15cdd8380345">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_c1efa5b004174a4ffec0e86be38addb1d53538d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/61fbc701d556eccaa6a6888f5289b749eec58856/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_65c4bc1f1aaff81d2421bff25a140ec6648d7c84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/61b58baf7ccc781f5c6026660e9676d80bf498a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cf5def5a11365487219b912b2a7ba8ad26f9917">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_c0aa6c198b4df0555e6ccce1a4911a119d4702d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/709cd7c18cadd4437c126bdf964fcb12be5012d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5e24e901834850335a8bb7d95cf51ea1468a32a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_ee831e00424c823916cd7e6fb715e1f8d3e4bf66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d83d2502e667c05b26ba19ca2fdf1a4b7b4764e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57717bc4b81722a9c3e481fc6f150a950afd550c">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/pre-dexed/debug/classes_bf2e41961aa31ef2c1325ac7b9893f7099b493d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e3a0b7b1d0451ddffb4316dc0ac9943faadf2a5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3a0d55874ee03de768356d540983a20c95dd07a">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7db4434a87a2124b136d06eb8f883e9be05acc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8d587e5c8acbe951a28a6c37daa4bcdd27fd586e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/root/Documents/MAD_Notes/android-samples-master/tutorials/CurrentPlaceDetailsOnMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f67a4e8bcfdbc9590ee563eafed77cafe922d3d/classes.dex" />
+    </item>
+
+</items>
